@@ -1,0 +1,8 @@
+noob_highscore = 0
+experienced_highscore = 0
+pro_highscore = 0
+harder_noob_highscore = 10
+harder_experienced_highscore = 0
+harder_pro_highscore = 13
+deaths = 26
+first_run = False
